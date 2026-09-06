@@ -1,4 +1,3 @@
-# models/temporal_graph/c2_beacon.py
 import numpy as np
 
 
